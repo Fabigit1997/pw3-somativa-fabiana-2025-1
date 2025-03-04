@@ -5,8 +5,8 @@
     border-radius: 5px;
     width: max-content;
     padding: 5px;
-    background-color: #dedede;
-    border: 1px solid #ccc;
+    background-color: #DEDEDE;
+    border: 1px solid #CCC;
     font-family: Helvetica;
 }
 
@@ -17,7 +17,6 @@
 .autor{
     font-size: 10px;
 }
-
 
 img{
     width: 80px;
